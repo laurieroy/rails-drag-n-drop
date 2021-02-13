@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This rails project is just a basic blog post to practice implementing a drag and drop feature. This one uses active storage, stimulus and dropzone. 
 
-Things you may want to cover:
+It was built following a [tutorial](https://www.youtube.com/watch?v=fg_8qJ-su6A) by [Andy Leverenz](https://web-crunch.com​)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
